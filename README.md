@@ -6,7 +6,8 @@ reproducible after the upstream source stops publishing a version.
 ## KiCad 9.0.9 (Ubuntu 24.04, amd64)
 
 Release `kicad-9.0.9-ubuntu24.04.1` holds the binary package exactly as published in the KiCad PPA
-(`ppa:kicad/kicad-9.0-releases`), together with its complete Debian source package.
+(`ppa:kicad/kicad-9.0-releases`), together with its complete Debian source package. GitHub stores release files with `~` replaced by `.`
+(e.g. `kicad_9.0.9.ubuntu24.04.1_amd64.deb`); the contents are byte-identical to the originals.
 
 | file | sha256 |
 |---|---|
